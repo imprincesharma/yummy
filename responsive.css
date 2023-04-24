@@ -1,0 +1,165 @@
+@media screen and (max-width:600px) {
+    body{
+        overflow-x: hidden;
+    }
+    
+    .table{
+
+        width: 150px !important;
+        /* height: 50px; */
+        border: none;
+        border-radius: 20px;
+        background-color: red;
+        color: wnite;
+        font-size: small;
+
+    }
+    .para{
+        display: none;
+    }
+    .name{
+
+        background-image: url(burgerhy-19-1.gif);
+        height: 300px;
+        width: 300px;
+        margin-top: 0%;
+        background-position: cover;
+        /* margin-left: -4% !important; */
+    }
+    .nam{
+        /* background-color: rgb(164, 180, 29) !important; */
+        color: white !important;
+        font-size: x-large;
+        /* margin-top: 130%; */
+        /* background-image: url(burgerhy-19-1.gif);
+        height: 300px;
+        width: 300px;
+        margin-top: %;
+        /* margin-left: -7%; */
+        background-position: cover; 
+         margin-left: 7%; 
+        ;
+
+    }
+    .png{
+        width: 90%;
+        height: 90%;
+        margin-left: 5%;
+        text-align: center;
+        align-items: center;
+        display: flex;
+    }
+    .ab{
+        /* background-color: red !important; */
+
+    }
+    .burgerr{
+        background-image: url(TovH.gif);
+        position: absolute;
+        z-index: 1;
+        height: 100px;
+        top: -20%;
+    }
+    .paragraph{
+        display: none;
+    }
+    .p{
+        display: none;
+    }
+    .ayu{
+        margin-top: -20%;
+    }
+    .navbarrr{
+       display: none;
+    }
+    .sakku{
+        margin-left: 35% !important;
+    }
+    .rupee{
+        margin-left: 150px !important;
+
+    }
+    .menu{
+        margin-left: 14% !important;
+        width: 70% !important;
+        border-radius: 50% !important;
+    }
+    .burg {
+        width: 70%;
+        height: 300px;
+        border-radius: 100px;
+        margin-top: 170%;
+        margin-left: 15%;
+    }
+    .para{
+margin-top: 120px !important;
+    }
+    .boot{
+        width: 100% !important;
+        height: 500px !important;
+
+    }
+    .event{
+        margin-left: 0 !important;
+    }
+    .cheiff {
+        width: 80%;
+        height: 200px;
+        /* position: absolute; */
+        z-index: 1;
+        margin-top: -150%;
+        margin-left: 6%;
+    }
+    .cheifff {
+        width: 70%;
+        height: 219px;
+        position: absolute;
+        z-index: 1;
+        margin-top: -60%;
+        margin-left: 13%;
+    }
+    #text1{
+        width: 260px;
+        height: 36px;
+    }
+    #text2{
+        width: 260px;
+        height: 36px;
+    }
+    #text3{
+        width: 260px;
+        height: 36px;
+    }
+    #text4{
+        width: 260px;
+        height: 36px;
+    }
+    #btnn{
+        margin-left: 69px;
+    }
+    #cus{
+        margin-top: 30%;
+
+    }
+    .menn{
+        width: 60% !important;
+        margin-top: 20% !important;
+        margin-left: 27% !important;
+
+    }
+    .mark{
+      margin-left: 25% !important;
+    }
+
+    .menn1{
+        width: 60% !important;
+        margin-top: 20% !important;
+        margin-left: 25% !important;
+    }
+    .menn2{
+        width: 60% !important;
+        margin-left: 25% !important;
+        margin-top: 20%;
+
+    }
+}
